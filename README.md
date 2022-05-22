@@ -1,3 +1,6 @@
+<h1>Recreated UI:</h1>
+<img src="./recreation.jpg">
+
 # gitui
 
 ## Project setup
